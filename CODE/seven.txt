@@ -1,0 +1,12 @@
+**Approach:** 
+This step does not strictly require a database query, as the math is qualitative resource allocation based on the segments identified in Question 6. However, you can calculate the total available capacity via standard arithmetic and map it to the segment distribution from the query above.
+
+```text
+Total Capacity Math:
+40 reps * 8 calls/day * 20 days/month * 3 months = 19,200 quarterly calls
+
+Strategy mapping based on ROI per call:
+1. New Starters (~50% allocation): 9,600 calls
+2. Growers (~35% allocation): 6,720 calls
+3. Non-responders (~15% allocation): 2,880 calls
+```
