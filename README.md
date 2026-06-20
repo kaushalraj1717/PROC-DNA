@@ -4,8 +4,8 @@
 ---
 
 > **Prepared by**: Group 3 — ProcDNA Business Analyst Hiring Process
-> **Members**: Kaushal Raj , Pradeep Modak , Ashwini Kumar
-> **Case Study Date**: June 20, 2026   
+>> **Members**: Kaushal Raj , Pradeep Modak , Ashwini Kumar
+>>> **Case Study Date**: June 20, 2026   
 > **Company**: ProcDNA (pharma data analytics consulting)  
 > **Product Under Analysis**: Nexavir (Drug ID: DRG001) by PrimeRx  
 > **Data Period**: ~18 months (July 2023 – December 2024)
